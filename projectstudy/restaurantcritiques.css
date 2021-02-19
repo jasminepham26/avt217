@@ -1,0 +1,46 @@
+@charset "UTF-8";
+/* CSS Document */
+body {
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	background-color: skyblue
+}
+
+#wrapper {
+	padding-left: 100px;
+	padding-right: 100px;
+	padding-bottom: 50px;
+	padding-top: 20px;
+	align-content: center;
+}
+
+header {
+	text-align: center;
+}
+
+h2 {
+	color:white;
+}
+
+article {
+	text-align: left;
+	padding-top: 10px;
+	align-content: center;
+}
+
+a:link {
+	color:black;
+	background-color:transparent;
+	text-decoration:none;
+}
+
+a:visited {
+	color:white;
+	background-color:cornflowerblue;
+	text-decoration:none;
+}
+
+a:hover {
+	color:palevioletred;
+	background-color:transparent; 
+	text-decoration:underline;
+}
