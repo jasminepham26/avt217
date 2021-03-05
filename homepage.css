@@ -1,0 +1,14 @@
+@charset "UTF-8";
+/* CSS Document */
+
+#wrapper {
+	margin: 0 auto;
+}
+
+.weekly {
+	float:left;
+}
+#Project {
+	padding-left: 80px;
+	float:left;
+}
